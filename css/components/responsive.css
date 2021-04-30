@@ -1,0 +1,47 @@
+@media (max-width: 1240px) {
+  .all {
+    width: auto;
+    margin: 0 auto;
+  }
+}
+
+
+@media (max-width: 1000px) {
+  .all {
+    width: auto;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 760px) {
+  .all {
+    width: 600px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 760px) {
+  .cards-container {
+    display: inline;
+  }
+}
+
+@media (max-width: 760px) {
+  .cards-escape {
+    margin-bottom: 10px;
+  }
+}
+
+@media (max-width: 500px) {
+  .all {
+    width: 400px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 500px) {
+  .cards-container {
+    display: inline;
+  }
+}
+
